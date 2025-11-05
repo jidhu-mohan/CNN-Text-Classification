@@ -1,0 +1,4 @@
+# This directory will contain saved models
+# Models are created during training and include:
+# - best_model.keras (best model based on validation accuracy)
+# - cnn_text_classifier.keras (final trained model)

@@ -1,0 +1,3 @@
+# This directory is for datasets
+# The IMDB dataset is automatically downloaded by TensorFlow/Keras
+# You can also place custom datasets here for experimentation

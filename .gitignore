@@ -205,3 +205,24 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific: CNN Text Classification
+# Saved model files (can be large)
+models/*.keras
+models/*.h5
+best_model.keras
+cnn_text_classifier.keras
+
+# Downloaded datasets
+data/*
+!data/.gitkeep
+
+# TensorFlow/Keras cache
+.keras/
+
+# Training logs
+logs/
+tensorboard_logs/
+
+# macOS
+.DS_Store
